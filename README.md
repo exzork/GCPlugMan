@@ -1,5 +1,5 @@
-# Grasscutter Plugin Template
+# Grasscutter Plugin Manager
 This is a template repository for a Grasscutter plugin.
-
+Usage : `plugman list/enable/disable all/number/name`
 ### Version
-The plugin template is currently on Grasscutter version `1.2.0`.
+The plugin is compatible with Grasscutter Plugin API version `2`.
